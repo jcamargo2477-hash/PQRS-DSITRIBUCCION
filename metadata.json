@@ -1,0 +1,6 @@
+{
+  "name": "Seguimiento de PQRS - Transportadoras",
+  "description": "Dashboard interactivo para cargar reportes de Excel de PQRS, visualizar rankings de transportadoras, distribucion de motivos, planes de accion aplicados y calculadora de penalizaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
